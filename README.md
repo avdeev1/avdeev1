@@ -6,7 +6,7 @@
 
 #### A few words about me
 
-I am a Junior developer. Now I work in the Deutsche Bank Tech Centre.
+I am a Junior Software Engineer. Now I work in the Deutsche Bank Tech Centre.
 
 My main hard skills:
 
